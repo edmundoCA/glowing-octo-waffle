@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraper", "Scraper\Scraper.csproj", "{26047014-9118-45DD-9550-1783AABB6F05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{0525213F-366F-43D2-AED1-C7947A9359B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{26047014-9118-45DD-9550-1783AABB6F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26047014-9118-45DD-9550-1783AABB6F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26047014-9118-45DD-9550-1783AABB6F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0525213F-366F-43D2-AED1-C7947A9359B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0525213F-366F-43D2-AED1-C7947A9359B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0525213F-366F-43D2-AED1-C7947A9359B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0525213F-366F-43D2-AED1-C7947A9359B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
